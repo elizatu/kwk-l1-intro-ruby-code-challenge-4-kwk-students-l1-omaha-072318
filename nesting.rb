@@ -6,4 +6,4 @@ clothes = [tops,bottoms,footwear]
 footwear << "bikenstocks"
 bottoms << "skorts"
 tops << "tube"
-puts clothes
+puts clothes[2][2]
