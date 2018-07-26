@@ -10,7 +10,7 @@
 #arrays have no key values
 
 
-closet = { "tops"=> ["rain jacket", "cardigan", "blazer"]
-"bottoms" => ["jeans", "skirts", "capris"]
+closet = { "tops"=> ["rain jacket", "cardigan", "blazer"],
+"bottoms" => ["jeans", "skirts", "capris"],
 "footwear" => ["sneakers", "heels", "flats"]}
 puts closet["tops"]<< "tank top"
