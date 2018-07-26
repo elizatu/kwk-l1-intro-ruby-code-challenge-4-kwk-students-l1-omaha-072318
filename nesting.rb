@@ -13,4 +13,4 @@
 closet = { "tops"=> ["rain jacket", "cardigan", "blazer"]
 "bottoms" => ["jeans", "skirts", "capris"]
 "footwear" => ["sneakers", "heels", "flats"]}
-puts closet[1]
+puts closet["tops"]
